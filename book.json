@@ -1,0 +1,19 @@
+{
+  "title": "个人知识库",
+  "author": "dongjf & niulei",
+  "description": "嗯，这就是本书",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "back-to-top-button",
+    "chapter-fold",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "isShowTocTitleIcon": true
+    }
+  }
+}
